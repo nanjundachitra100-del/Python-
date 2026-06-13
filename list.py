@@ -17,3 +17,4 @@ print(fruits)
 print(fruits.count('apple'))
 copy_fruits=fruits.copy()
 print(copy_fruits)
+
