@@ -49,3 +49,4 @@ sns.pairplot(df,hue="species")
 plt.suptitle("pair plot0",y=1.02)
 plt.show()
 
+
